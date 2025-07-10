@@ -1,0 +1,1 @@
+web: gunicorn Stovyklos_vadovai:app
